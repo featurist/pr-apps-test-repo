@@ -1,0 +1,6 @@
+
+env:
+  API_URL: "https://api-${APP_DOMAIN}"
+routes:
+  api-web: "api-${APP_DOMAIN}"
+  
