@@ -1,0 +1,6 @@
+
+envs:
+  FOO: bar
+resources:
+  - redis
+  
